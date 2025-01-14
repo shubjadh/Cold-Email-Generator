@@ -1,0 +1,24 @@
+# Core dependencies
+streamlit
+python-dotenv
+
+# LLM and AI
+langchain
+langchain-groq
+langchain-core
+langchain-community
+
+# PDF Processing
+pypdf
+
+# Data processing and storage
+pandas
+chromadb
+
+# Web scraping and processing
+beautifulsoup4
+dnspython
+
+# Utility packages
+regex
+uuid
