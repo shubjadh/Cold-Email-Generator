@@ -45,9 +45,11 @@ A GenAI-powered Streamlit application that leverages Large Language Models to au
    - Add your Groq API key:
      ```
      GROQ_API_KEY=your_api_key_here
+     or use TEMP api key = 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
      ```
 
 4. **Portfolio Setup**
+   use Portfolio generator.ipynb to generate your portfolio which includes links to your github. It will generate the my_portfolio.csv uing your Resume.
    - Place your `my_portfolio.csv` in the `resource` folder
    - CSV format:
      ```
@@ -106,7 +108,3 @@ cold-email-generator/
 ## Contributing
 
 Feel free to fork this repository and submit pull requests for any improvements.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
