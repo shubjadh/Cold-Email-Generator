@@ -45,7 +45,7 @@ A GenAI-powered Streamlit application that leverages Large Language Models to au
    - Add your Groq API key:
      ```
      GROQ_API_KEY=your_api_key_here
-     or use TEMP api key = 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
+     or use TEMP api key = "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"
      ```
 
 4. **Portfolio Setup**
